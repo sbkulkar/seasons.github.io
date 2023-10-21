@@ -1,2 +1,0 @@
-# seasons.github.io
-Seasons
